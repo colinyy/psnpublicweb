@@ -1325,7 +1325,7 @@ input::-moz-focus-inner {
 .header-logo {
   z-index: 501;
   display: inline-block;
-  margin: 0;
+  margin: 50px 0 0 0 ;
   padding: 0;
   position: absolute;
   left: 110px;
@@ -1337,14 +1337,14 @@ input::-moz-focus-inner {
 .header-logo a {
   display: block;
   padding: 0;
-  outline: 0;
+  outline: 2px;
   border: none;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 .header-logo img {
-  width: 200px;
-  height: 38px;
+  width: 500px;
+  /*height: 38px;*/
 }
 
 
